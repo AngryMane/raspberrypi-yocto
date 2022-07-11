@@ -2,7 +2,7 @@
 <manifest>
   <remote name="yocto" fetch="git://git.yoctoproject.org/"/>
   <remote name="github" fetch="git://github.com/"/>
-  <default revision="dunfell" remote="yocto"/>
+  <default revision="gatesgarth" remote="yocto"/>
 
   <project path="poky" name="poky"/>
   <project path="poky/meta-raspberrypi" name="meta-raspberrypi"/>
